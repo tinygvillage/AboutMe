@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gio.
-- 👀 I’m interested in making light installations and video games in the metaverse.
+- 👀 I’m interested in making light installations and educational video games.
 - 🌱 I’m currently learning at App Academy to become a Full Stack Engineer.
 - 💞️ I’m looking to collaborate on 3D and 4D projects.
 - 📫 You can reach me at tinyglobalvillage@gmail.com 
